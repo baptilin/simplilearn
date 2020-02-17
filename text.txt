@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 Hi this is feature-2020
+=======
+Hi this is feature-2020 branch
+
+class feature
+{
+  system.out.println("Feature branch new feature");
+}
+
+making changes for feature2020 release ( top 20 courses for LMS)
